@@ -3,4 +3,4 @@ Ceci est un projet de groupe pour la matière SVM et réseaux de neurones du Mas
 
 Vous trouverez ci-joints le notebook et les bases de données utilisées. 
 
-Les bases de donnéesont été téléchargé via ce lien kaggle: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+Les bases de données ont été téléchargé via ce lien kaggle: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
